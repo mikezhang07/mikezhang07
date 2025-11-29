@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Mike (or call me Sho, 中文是翔的意思). I want to create website to record AI prompts. It's also provide others to get some knowledge I learned from Alethia University.
+- 👀 I’m interested in ... English, Sport, Music, and Finance
+- 🌱 I’m currently learning ... Different English Composition Forms and Create the Website (which is not over sophisticated) 
+- 💞️ I’m looking to collaborate on ... Create & Manage a backend website (after I finish create one project, I will tag a sign at the end of this sentence).
+- 📫 How to reach me ... mike.lxiang is my Instagram account (remember to mention you comes from Github).
