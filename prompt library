@@ -1,0 +1,26 @@
+/content
+    /chatgpt
+        basic_writing.md
+        translation.md
+        coding_assistant.md
+        role_play.md
+
+    /claude
+        summarization.md
+        analysis_prompt.md
+
+    /gemini
+        brainstorming.md
+        planning_prompt.md
+
+    /system_prompts
+        persona_design.md
+        safety_guidelines.md
+
+    /image_ai
+        dalle_style.md
+        dalle_edit.md
+        reference_prompt.md
+
+index.md
+about.md
